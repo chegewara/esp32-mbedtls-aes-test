@@ -1,5 +1,3 @@
-# Hello World Example
+# Test of mbedtls aes 
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+This is test code with snippets how to use mbedtls encryption/decryption on esp32.
